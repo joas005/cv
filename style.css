@@ -1,0 +1,18 @@
+.aboutMe {
+    text-indent: 2%;
+    margin: 0;
+    margin-bottom: 0.5rem;
+}
+
+.github {
+    font-size: 2rem;
+}
+
+#descGithub {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.credit {
+    display: block;
+}
